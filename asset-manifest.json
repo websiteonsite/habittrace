@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/habittrace/static/css/main.b1dd9d3f.css",
+    "main.js": "/habittrace/static/js/main.cab309c1.js",
+    "static/media/galaxy.jpg": "/habittrace/static/media/galaxy.0f011eb735bef97c32c3.jpg",
+    "index.html": "/habittrace/index.html",
+    "main.b1dd9d3f.css.map": "/habittrace/static/css/main.b1dd9d3f.css.map",
+    "main.cab309c1.js.map": "/habittrace/static/js/main.cab309c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1dd9d3f.css",
+    "static/js/main.cab309c1.js"
+  ]
+}
