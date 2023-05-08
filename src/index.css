@@ -1,0 +1,35 @@
+.background {
+    background-image: url('../public/galaxy.jpg');
+    background-size: 90%;
+    background-position: -350% 30%;
+    /* background-position: right; */
+
+}
+body {
+    background: rgb(223, 153, 178);
+background: radial-gradient(circle, rgb(78, 4, 68) 100%, rgb(80, 29, 79) 100%, rgba(1,0,5,1) 100%);
+}
+
+.gradient{
+    background-color: #0f4019;
+background-image: linear-gradient(315deg, #0f4011 0%, #0ea227 74%);
+}
+.gradient1{
+    background-color: #2b4162;
+background-image: linear-gradient(320deg, #2b4162 0%, #cf317a 34%);
+}
+
+.done{
+    color: rgb(25, 204, 55);
+}
+.fail{
+    color:rgb(235, 14, 14);
+}
+.day-headings{
+    color: #049cbe;
+}
+.text-light {
+    font-family: monospace, 'Montserrat', sans-serif;
+    font-size: larger;
+    
+  }
